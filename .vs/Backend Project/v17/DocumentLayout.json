@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\source\\repos\\backend project\\backend project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\source\\repos\\backend project\\backend project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\source\\repos\\backend project\\backend project\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\source\\repos\\backend project\\backend project\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\source\\repos\\backend project\\backend project\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\source\\repos\\backend project\\backend project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\source\\repos\\backend project\\backend project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\source\\repos\\backend project\\backend project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\source\\repos\\backend project\\backend project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Backend Project\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Backend Project\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAIgCAAAAAAAAAAAAAJoCAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T16:02:21.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Backend Project\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Backend Project\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:50:16.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Backend Project\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Backend Project\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:25:23.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Backend Project\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Backend Project\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:25:02.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Backend Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Backend Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAKQMAAAAAAAAAAAAALAMAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:18:00.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Backend Project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Backend Project\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:14:43.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Views\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Backend Project\\Views\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Views\\_Layout.cshtml",
+              "RelativeToolTip": "Backend Project\\Views\\_Layout.cshtml",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAAGkBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:44:31.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend Project\\appsettings.json",
+              "ToolTip": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\appsettings.json",
+              "RelativeToolTip": "Backend Project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T15:16:17.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Program.cs",
+              "RelativeDocumentMoniker": "Backend Project\\Program.cs",
+              "ToolTip": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Program.cs",
+              "RelativeToolTip": "Backend Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:11:41.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
