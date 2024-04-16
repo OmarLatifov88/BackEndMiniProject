@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\omarnl\\Desktop\\backendproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -35,24 +11,56 @@
       "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\migrations\\20240416163643_add-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\migrations\\20240416163643_add-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\contexts\\riodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\contexts\\riodedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|c:\\users\\omarnl\\desktop\\backendproject\\backend project\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E06F9019-7B7B-4CFB-8816-CE74131D2A17}|Backend Project\\Backend Project.csproj|solutionrelative:backend project\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,43 +70,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductImage.cs",
-              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\ProductImage.cs",
-              "RelativeDocumentMoniker": "Backend Project\\Models\\ProductImage.cs",
-              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\ProductImage.cs",
-              "RelativeToolTip": "Backend Project\\Models\\ProductImage.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T16:02:52.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "Backend Project\\Models\\Brand.cs",
-              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\Brand.cs",
-              "RelativeToolTip": "Backend Project\\Models\\Brand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T15:35:17.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Backend Project\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\Category.cs",
               "RelativeToolTip": "Backend Project\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T15:34:58.919Z",
               "EditorCaption": ""
@@ -106,19 +88,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Backend Project\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\Product.cs",
-              "RelativeToolTip": "Backend Project\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T15:34:41.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Backend Project\\Views\\Product\\Index.cshtml",
@@ -131,85 +100,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Backend Project\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Backend Project\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Backend Project\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\Product.cs",
+              "RelativeToolTip": "Backend Project\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T15:25:02.765Z",
+              "WhenOpened": "2024-04-16T15:34:41.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Backend Project\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Backend Project\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAKoAAAAAAAAAAAAAALgMAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T15:18:00.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Backend Project\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Backend Project\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T15:14:43.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Program.cs",
-              "RelativeDocumentMoniker": "Backend Project\\Program.cs",
-              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Program.cs",
-              "RelativeToolTip": "Backend Project\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T15:11:41.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\Blog\\Index.cshtml",
-              "RelativeDocumentMoniker": "Backend Project\\Views\\Blog\\Index.cshtml",
-              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\Blog\\Index.cshtml",
-              "RelativeToolTip": "Backend Project\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAA4AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T16:02:21.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Backend Project\\Views\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\_Layout.cshtml",
-              "RelativeToolTip": "Backend Project\\Views\\_Layout.cshtml",
-              "ViewState": "AQIAAJUAAAAAAAAAAAAAAGkBAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-15T15:44:31.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "Backend Project\\Controllers\\BlogController.cs",
@@ -222,15 +139,133 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Backend Project\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Backend Project\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:25:02.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240416163643_add-migration.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Migrations\\20240416163643_add-migration.cs",
+              "RelativeDocumentMoniker": "Backend Project\\Migrations\\20240416163643_add-migration.cs",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Migrations\\20240416163643_add-migration.cs",
+              "RelativeToolTip": "Backend Project\\Migrations\\20240416163643_add-migration.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:36:43.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Backend Project\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Backend Project\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAAgIAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:18:00.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Backend Project\\Views\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\_Layout.cshtml",
+              "RelativeToolTip": "Backend Project\\Views\\_Layout.cshtml",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAGkBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:44:31.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Backend Project\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Backend Project\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T16:02:21.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\appsettings.json",
               "RelativeDocumentMoniker": "Backend Project\\appsettings.json",
               "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\appsettings.json",
               "RelativeToolTip": "Backend Project\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-15T15:16:17.638Z"
+              "WhenOpened": "2024-04-15T15:16:17.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RiodeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Contexts\\RiodeDbContext.cs",
+              "RelativeDocumentMoniker": "Backend Project\\Contexts\\RiodeDbContext.cs",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Contexts\\RiodeDbContext.cs",
+              "RelativeToolTip": "Backend Project\\Contexts\\RiodeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:22:38.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Program.cs",
+              "RelativeDocumentMoniker": "Backend Project\\Program.cs",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Program.cs",
+              "RelativeToolTip": "Backend Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:11:41.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Backend Project\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\Brand.cs",
+              "RelativeToolTip": "Backend Project\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T15:35:17.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Backend Project\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Models\\ProductImage.cs",
+              "RelativeToolTip": "Backend Project\\Models\\ProductImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:02:52.274Z",
+              "EditorCaption": ""
             }
           ]
         }

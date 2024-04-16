@@ -1,10 +1,18 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Backend_Project.Contexts;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Backend_Project.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        private readonly RiodeDbContext _Context;
+
+		public HomeController(RiodeDbContext context)
+		{
+			_Context = context;
+		}
+
+		public IActionResult Index()
         {
             return View();
         }
