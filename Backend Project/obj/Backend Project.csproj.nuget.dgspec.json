@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Backend Project.csproj": {}
+    "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Backend Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Backend Project.csproj": {
+    "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Backend Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Backend Project.csproj",
+        "projectUniqueName": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Backend Project.csproj",
         "projectName": "Backend Project",
-        "projectPath": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\Backend Project.csproj",
+        "projectPath": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\Backend Project.csproj",
         "packagesPath": "C:\\Users\\omarnl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omarnl\\source\\repos\\Backend Project\\Backend Project\\obj\\",
+        "outputPath": "C:\\Users\\omarnl\\Desktop\\backendproject\\Backend Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,22 +38,42 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
