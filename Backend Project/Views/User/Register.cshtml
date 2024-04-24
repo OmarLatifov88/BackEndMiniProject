@@ -1,0 +1,94 @@
+﻿
+@{
+    ViewData["Title"] = "Register";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+
+	<title>Riode - Ultimate eCommerce Template</title>
+
+	<meta name="keywords" content="HTML5 Template" />
+	<meta name="description" content="Riode - Ultimate eCommerce Template">
+	<meta name="author" content="D-THEMES">
+
+	<!-- Favicon -->
+	<link rel="icon" type="image/png" href="~/assets/images/icons/favicon.png">
+
+	<script>
+		WebFontConfig = {
+			google: { families: [ 'Poppins:400,500,600,700' ] }
+		};
+		( function ( d ) {
+			var wf = d.createElement( 'script' ), s = d.scripts[ 0 ];
+			wf.src = 'js/webfont.js';
+			wf.async = true;
+			s.parentNode.insertBefore( wf, s );
+		} )( document );
+	</script>
+
+
+	<link rel="stylesheet" type="text/css" href="~/assets/vendor/fontawesome-free/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="~/assets/vendor/animate/animate.min.css">
+
+	<!-- Plugins CSS File -->
+	<link rel="stylesheet" type="text/css" href="~/assets/vendor/magnific-popup/magnific-popup.min.css">
+
+	<!-- Main CSS File -->
+	<link rel="stylesheet" type="text/css" href="~/assets/css/style.min.css">
+</head>
+<body>
+<div class="tab-pane" id="account">
+	<form method="post" class="form">
+		<div class="row">
+			<div class="col-sm-6">
+				<label>First Name</label>
+				<input type="text" class="form-control" name="first_name" required="" placeholder="First Name">
+			</div>
+			<div class="col-sm-6">
+				<label>Last Name</label>
+				<input type="text" class="form-control" name="last_name" required="" placeholder="Last Name">
+			</div>
+		</div>
+
+		<label>Display Name</label>
+		<input type="text" class="form-control mb-0" name="display_name" required="" placeholder="Display Name">
+		<small class="d-block form-text mb-7">
+			This will be how your name will be displayed
+			in the account section and in reviews
+		</small>
+
+		<label>Email Address</label>
+		<input type="email" class="form-control" name="email" required="" placeholder="Email Address">
+		<fieldset>
+			<legend>Password Change</legend>
+			<label>Current password (leave blank to leave unchanged)</label>
+			<input type="password" class="form-control" name="current_password" placeholder="Current password">
+
+			<label>New password (leave blank to leave unchanged)</label>
+			<input type="password" class="form-control" name="new_password" placeholder="New password">
+
+			<label>Confirm new password</label>
+			<input type="password" class="form-control" name="confirm_password" placeholder="Confirm new password">
+		</fieldset>
+
+		<button type="submit" class="btn btn-primary">SAVE CHANGES</button>
+	</form>
+</div>
+
+	<!-- Plugins JS File -->
+	<script src="~/assets/vendor/jquery/jquery.min.js"></script>
+	<script src="~/assets/vendor/elevatezoom/jquery.elevatezoom.min.js"></script>
+	<script src="~/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+	<script src="~/assets/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+	<!-- Main JS File -->
+	<script src="~/assets/js/main.min.js"></script>
+</body>
+
+</html>
+
