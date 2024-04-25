@@ -1,8 +1,9 @@
-﻿
+﻿@using Backend_Project.Views.ViewModels;
+
 @{
     ViewData["Title"] = "Register";
 }
-
+@model RegisterViewModel
 <!DOCTYPE html>
 <html lang="en">
 
@@ -48,33 +49,33 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<label>First Name</label>
-				<input type="text" class="form-control" name="first_name" required="" placeholder="First Name">
+				<input asp-for="First Name" class="form-control" name="first_name" required="" placeholder="First Name">
 			</div>
 			<div class="col-sm-6">
 				<label>Last Name</label>
-				<input type="text" class="form-control" name="last_name" required="" placeholder="Last Name">
+				<input asp-for="Last Name" class="form-control" name="last_name" required="" placeholder="Last Name">
 			</div>
 		</div>
 
 		<label>Display Name</label>
-		<input type="text" class="form-control mb-0" name="display_name" required="" placeholder="Display Name">
+		<input asp-for="Display Name" class="form-control mb-0" name="display_name" required="" placeholder="Display Name">
 		<small class="d-block form-text mb-7">
 			This will be how your name will be displayed
 			in the account section and in reviews
 		</small>
 
 		<label>Email Address</label>
-		<input type="email" class="form-control" name="email" required="" placeholder="Email Address">
+		<input asp-for="Email Address" Address" class="form-control" name="email" required="" placeholder="Email Address">
 		<fieldset>
 			<legend>Password Change</legend>
 			<label>Current password (leave blank to leave unchanged)</label>
-			<input type="password" class="form-control" name="current_password" placeholder="Current password">
+			<input asp-for="Password Change" class="form-control" name="current_password" placeholder="Current password">
 
 			<label>New password (leave blank to leave unchanged)</label>
-			<input type="password" class="form-control" name="new_password" placeholder="New password">
+			<input asp-for="New password" class="form-control" name="new_password" placeholder="New password">
 
 			<label>Confirm new password</label>
-			<input type="password" class="form-control" name="confirm_password" placeholder="Confirm new password">
+			<input asp-for="Confirm new password" class="form-control" name="confirm_password" placeholder="Confirm new password">
 		</fieldset>
 
 		<button type="submit" class="btn btn-primary">SAVE CHANGES</button>

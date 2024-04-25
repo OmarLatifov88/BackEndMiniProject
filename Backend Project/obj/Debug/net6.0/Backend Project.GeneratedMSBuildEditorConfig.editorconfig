@@ -9,35 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Backend_Project
 build_property.RootNamespace = Backend_Project
-build_property.ProjectDir = C:\Users\omarnl\Desktop\backendproject\Backend Project\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = C:\Users\User\Desktop\backendproject2\BackEndMiniProject\Backend Project\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\omarnl\Desktop\backendproject\Backend Project
+build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\backendproject2\BackEndMiniProject\Backend Project
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/omarnl/Desktop/backendproject/Backend Project/Views/Blog/Index.cshtml]
+[C:/Users/User/Desktop/backendproject2/BackEndMiniProject/Backend Project/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omarnl/Desktop/backendproject/Backend Project/Views/Home/Index.cshtml]
+[C:/Users/User/Desktop/backendproject2/BackEndMiniProject/Backend Project/Views/Categories/Categories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDYXRlZ29yaWVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/User/Desktop/backendproject2/BackEndMiniProject/Backend Project/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omarnl/Desktop/backendproject/Backend Project/Views/Product/Index.cshtml]
+[C:/Users/User/Desktop/backendproject2/BackEndMiniProject/Backend Project/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omarnl/Desktop/backendproject/Backend Project/Views/Shared/_Layout.cshtml]
+[C:/Users/User/Desktop/backendproject2/BackEndMiniProject/Backend Project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omarnl/Desktop/backendproject/Backend Project/Views/User/Register.cshtml]
+[C:/Users/User/Desktop/backendproject2/BackEndMiniProject/Backend Project/Views/User/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/omarnl/Desktop/backendproject/Backend Project/Views/_ViewStart.cshtml]
+[C:/Users/User/Desktop/backendproject2/BackEndMiniProject/Backend Project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
