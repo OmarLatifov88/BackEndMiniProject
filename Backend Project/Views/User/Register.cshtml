@@ -46,38 +46,48 @@
 <body>
 <div class="tab-pane" id="account">
 	<form method="post" class="form">
-		<div class="row">
-			<div class="col-sm-6">
-				<label>First Name</label>
-				<input asp-for="First Name" class="form-control" name="first_name" required="" placeholder="First Name">
+		   <div class="row"> 
+			<div class="col-sm-12">
+				<label>Fullname</label>
+					<input asp-for="Fullname" class="form-control" name="Fullname" required="" placeholder="Fullname">
+					<span asp-validation-for="Fullname" class="text-danger"></span>
 			</div>
-			<div class="col-sm-6">
-				<label>Last Name</label>
-				<input asp-for="Last Name" class="form-control" name="last_name" required="" placeholder="Last Name">
+			<div class="col-sm-12">
+					<label>Username</label>
+					<input asp-for="Username" class="form-control" name="Username" required="" placeholder="Username">
+					<span asp-validation-for="Username" class="text-danger"></span>
 			</div>
-		</div>
-
-		<label>Display Name</label>
-		<input asp-for="Display Name" class="form-control mb-0" name="display_name" required="" placeholder="Display Name">
+		      </div>
+			<div class="col-md-12">
+			<label>Email</label>
+			<input asp-for="Email" class="form-control mb-0" name="Email" required="" placeholder="Email">
+			<span asp-validation-for="Email" class="text-danger"></span>
 		<small class="d-block form-text mb-7">
 			This will be how your name will be displayed
 			in the account section and in reviews
 		</small>
-
-		<label>Email Address</label>
-		<input asp-for="Email Address" Address" class="form-control" name="email" required="" placeholder="Email Address">
+			</div>
+		<div class="col-md-12">
+			<label>PasswordConfirm</label>
+			<input asp-for="PasswordConfirm" Address" class="form-control" name="email" required="" placeholder="PasswordConfirm">
+			<span asp-validation-for="PasswordConfirm" class="text-danger"></span>
+        </div>
+			<div asp-validation-summary="ModelOnly" class="text-danger">ModelOnly</div>
+		<div>
 		<fieldset>
+	<div class="col-md-12">
 			<legend>Password Change</legend>
 			<label>Current password (leave blank to leave unchanged)</label>
-			<input asp-for="Password Change" class="form-control" name="current_password" placeholder="Current password">
-
+			@* <input asp-for="Current password" class="form-control" name="current_password" placeholder="Current password">
+			<span asp-validation-for="Current password" class="text-danger"></span>
 			<label>New password (leave blank to leave unchanged)</label>
 			<input asp-for="New password" class="form-control" name="new_password" placeholder="New password">
-
+			<span asp-validation-for="New password" class="text-danger"></span>
 			<label>Confirm new password</label>
 			<input asp-for="Confirm new password" class="form-control" name="confirm_password" placeholder="Confirm new password">
+			<span asp-validation-for="Confirm new password" class="text-danger"></span> *@
 		</fieldset>
-
+	</div>
 		<button type="submit" class="btn btn-primary">SAVE CHANGES</button>
 	</form>
 </div>
