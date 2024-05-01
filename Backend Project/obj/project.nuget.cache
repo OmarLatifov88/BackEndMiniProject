@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NDzDUTzCgGEfpiXKdapxPAsBCyejZmZkHvLeeNjrbMq//ITs6vWNrHu7XSC1t1OlMly3bPbcPzwQAIl06kG5hw==",
+  "dgSpecHash": "SH41FNSaG0zGwKFZM08PlFBJAVvZoWzjHMIlYSwrnzmb+JRWR2SMmR6eGa6nDzdUX5agiaad4TeHuPSQUrZxzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\omarnl\\Desktop\\backendproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj",
+  "projectFilePath": "C:\\Users\\omarnl\\Desktop\\backendminiproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omarnl\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\omarnl\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

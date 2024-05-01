@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omarnl\\Desktop\\backendproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj": {}
+    "C:\\Users\\omarnl\\Desktop\\backendminiproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omarnl\\Desktop\\backendproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj": {
+    "C:\\Users\\omarnl\\Desktop\\backendminiproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omarnl\\Desktop\\backendproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj",
+        "projectUniqueName": "C:\\Users\\omarnl\\Desktop\\backendminiproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj",
         "projectName": "Backend Project",
-        "projectPath": "C:\\Users\\omarnl\\Desktop\\backendproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj",
+        "projectPath": "C:\\Users\\omarnl\\Desktop\\backendminiproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj",
         "packagesPath": "C:\\Users\\omarnl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omarnl\\Desktop\\backendproject\\BackEndMiniProject\\Backend Project\\obj\\",
+        "outputPath": "C:\\Users\\omarnl\\Desktop\\backendminiproject\\BackEndMiniProject\\Backend Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
