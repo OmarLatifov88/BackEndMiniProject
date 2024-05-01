@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Backend_Project.Helpers.Enums;
 using Backend_Project.Models;
 using Backend_Project.Views.ViewModels;
@@ -86,5 +87,17 @@ public class AuthController : Controller
     public IActionResult ForgotPassword()
     {
         return View();
+=======
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace Backend_Project.Controllers
+{
+    public class AuthController : Controller
+    {
+        public IActionResult Index()
+        {
+            return View();
+        }
+>>>>>>> ee43d1f13cac57df853908af0bb35475cd16b9d7
     }
 }
