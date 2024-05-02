@@ -1,0 +1,69 @@
+﻿@using Backend_Project.Models;
+
+<div class="main-panel">
+@model Product
+
+@{
+    ViewData["Title"] = "Create";
+}
+    
+    <div class="content-wrapper">
+
+            
+            
+              <div class="row">
+            <div class="col-md-6 grid-margin stretch-card">
+              <div class="card">
+                <div class="card-body">
+                  <h4 class="card-title">Default form</h4>
+                  <p class="card-description">
+                    Basic form layout
+                  </p>
+                  <form method="post">
+                    <div class="form-group">
+                      <label for="exampleInputUsername1">Name</label>
+                      <input asp-for="Name" class="form-control" placeholder="Name">
+                      <span asp-validation-for=Name></span>
+                    </div>
+                    <div class="form-group">
+                      <label for="exampleInputEmail1">Price</label>
+                      <input asp-for=Price class="form-control"  placeholder="Price">
+                      <span asp-validation-for=Price></span>
+                    </div>
+                    <div class="form-group">
+                      <label for="exampleInputPassword1">Description</label>
+                      <input asp-for="Description" class="form-control"   placeholder="Description">
+                      <span asp-validation-for="Description"></span>
+                    </div>
+                    <div class="form-group">
+                      <label for="exampleInputConfirmPassword1">Rate</label>
+                      <input asp-for=Rate class="form-control" placeholder="Rate">
+                      <span asp-validation-for=Rate></span>
+                    </div>
+                    <div class="form-check form-check-flat form-check-primary">
+                      <label class="form-check-label">
+                        <input asp-for="Offer" class="form-check-input" placeholder="Offer" >Offer</label>
+                       <span asp-validation-for="Offer"></span>
+                      
+                    </div>
+                    <button type="submit" class="btn btn-primary me-2">Submit</button>
+                    <button class="btn btn-light">Cancel</button>
+                  </form>
+                </div>
+              </div>
+            </div>
+            
+          </div>
+            
+        
+        </div>
+        <!-- content-wrapper ends -->
+        <!-- partial:../../partials/_footer.html -->
+        <footer class="footer">
+        <div class="d-sm-flex justify-content-center justify-content-sm-between">
+          <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Copyright © <a href="https://www.bootstrapdash.com/" target="_blank">bootstrapdash.com </a>2021</span>
+          <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Only the best <a href="https://www.bootstrapdash.com/" target="_blank"> Bootstrap dashboard  </a> templates</span>
+        </div>
+        </footer>
+        <!-- partial -->
+      </div>

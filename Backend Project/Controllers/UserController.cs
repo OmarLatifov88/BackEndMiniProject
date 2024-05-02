@@ -1,4 +1,5 @@
-﻿using Backend_Project.Models;
+﻿using Backend_Project.Helpers.Enums;
+using Backend_Project.Models;
 using Backend_Project.Views.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
