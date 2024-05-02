@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 ﻿using Backend_Project.Helpers.Enums;
+=======
+using Backend_Project.Helpers.Enums;
+>>>>>>> 8df5383f4d83c9bade81462e7e8a6ed8ae195361
 using Backend_Project.Models;
 using Backend_Project.Views.ViewModels;
 using Microsoft.AspNetCore.Identity;
@@ -78,8 +82,13 @@ public class AuthController : Controller
 			await _roleManager.CreateAsync(new IdentityRole { Name = roleName });
 		}
 		//await _roleManager.CreateAsync(new IdentityRole { Name = "Admin" });
+<<<<<<< HEAD
 		//      await _roleManager.CreateAsync(new IdentityRole { Name = "User" });
 		//      await _roleManager.CreateAsync(new IdentityRole { Name = "Moderator" });
+=======
+		//await _roleManager.CreateAsync(new IdentityRole { Name = "User" });
+		//await _roleManager.CreateAsync(new IdentityRole { Name = "Moderator" });
+>>>>>>> 8df5383f4d83c9bade81462e7e8a6ed8ae195361
 
 		return Content("Rollar Yarandi");
 	}
@@ -87,6 +96,13 @@ public class AuthController : Controller
 	public IActionResult ForgotPassword()
 	{
 		return View();
+<<<<<<< HEAD
 
 	}
 }﻿
+=======
+	}
+}
+
+
+>>>>>>> 8df5383f4d83c9bade81462e7e8a6ed8ae195361

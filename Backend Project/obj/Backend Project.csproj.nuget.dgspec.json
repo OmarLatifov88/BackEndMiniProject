@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\User\\Desktop\\backendproject2\\BackEndMiniProject\\Backend Project\\Backend Project.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\User\\Desktop\\backendproject2\\BackEndMiniProject\\Backend Project\\Backend Project.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\Desktop\\backendproject2\\BackEndMiniProject\\Backend Project\\obj\\",
+=======
+    "C:\\Users\\omarnl\\Desktop\\backendminiproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\omarnl\\Desktop\\backendminiproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\omarnl\\Desktop\\backendminiproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj",
+        "projectName": "Backend Project",
+        "projectPath": "C:\\Users\\omarnl\\Desktop\\backendminiproject\\BackEndMiniProject\\Backend Project\\Backend Project.csproj",
+        "packagesPath": "C:\\Users\\omarnl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\omarnl\\Desktop\\backendminiproject\\BackEndMiniProject\\Backend Project\\obj\\",
+>>>>>>> 8df5383f4d83c9bade81462e7e8a6ed8ae195361
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
